@@ -1,0 +1,41 @@
+body{
+    background-image: "N.png";
+    font: normal 25pt;
+    
+}
+
+header{
+    color: white;
+    text-align: center;
+
+
+}
+
+section{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 8px black;
+    
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+div{
+    text-align: center;  
+    padding: 8px;     
+}
+
+#msg{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
